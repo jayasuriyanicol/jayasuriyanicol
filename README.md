@@ -1,5 +1,5 @@
 ## Welcome to everyone ! 👋
-#Something about me:
+Something about me:
 
 - 👨‍💻 Computer Engineering Student | University of Rome Tor Vergata
 - ☁️ Cloud Application Developer
