@@ -4,7 +4,7 @@ Something about me:
 - 👨‍💻 Computer Engineering Student | University of Rome Tor Vergata
 - ☁️ Cloud Application Developer
 - 💻 Experienced in C, C++, Java, MySQL, PHP, HTML, and CSS.
-- ²⁰⁰⁴ 20 year's old
+- ²⁰⁰⁴ 21 year's old
 - 💡 Passionate about software development and cloud computing.
 - 📍 Based in Rome, Italy
 
