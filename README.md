@@ -11,8 +11,8 @@ Something about me:
  
  ### 💻 Tech Stack
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,mysql,php,html,css" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,mysql,php,html,css,spring,flask" />
 </div>
 
 
