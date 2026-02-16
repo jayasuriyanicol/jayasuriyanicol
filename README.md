@@ -8,10 +8,14 @@ Something about me:
 - 💡 Passionate about software development and creation of application services.
 - 📍 Based in Rome, Italy
 
- 
- ### 💻 Tech Stack
+
 
 <div align="center">
+  <h4>💻 Tech Stack</h4>
+  <p>
+    I mainly focus on <b>Java & Cloud Development</b>,<br>
+    while retaining a solid academic foundation in C, C++, and PHP.
+  </p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,mysql,php,html,css,spring,flask" />
 </div>
 
