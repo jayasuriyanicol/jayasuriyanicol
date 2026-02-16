@@ -16,7 +16,7 @@ Something about me:
     I mainly focus on <b>Java & Cloud Development</b>,<br>
     while retaining a solid academic foundation in C, C++, and PHP.
   </p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,mysql,php,html,css,spring,flask" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,mysql,postgresql,docker,php,html,css,spring,flask" />
 </div>
 
 
