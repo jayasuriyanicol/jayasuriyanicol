@@ -1,12 +1,19 @@
+
 ## Welcome to everyone ! 👋
 Something about me:
 
 - 👨‍💻 Computer Engineering Student | University of Rome Tor Vergata
 - ☁️ Cloud Application Developer
-- 💻 Experienced in C, C++, Java, MySQL, PHP, HTML, and CSS.
 - ²⁰⁰⁴ 21 year's old
-- 💡 Passionate about software development and cloud computing.
+- 💡 Passionate about software development and creation of application services.
 - 📍 Based in Rome, Italy
+
+ 
+ ### 💻 Tech Stack
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,mysql,php,html,css" />
+</div>
 
 
 <!--
