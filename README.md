@@ -14,9 +14,9 @@ Something about me:
   <h4>💻 Tech Stack</h4>
   <p>
     I mainly focus on <b>Java & Cloud Development</b>,<br>
-    while retaining a good academic foundation in C, C++, JS, Docker and PHP.
+    while retaining a good academic foundation in C, C++, JS and PHP.
   </p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,mysql,postgresql,docker,php,html,css,spring,flask" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,mysql,postgresql,react,php,html,css,spring,flask" />
 </div>
 
 
